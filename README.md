@@ -45,5 +45,5 @@ Here are some of my standout projects:
 ## 📫 **Let's Connect!**
 
 - 🌐 **Portfolio**: 
-- 🔗 **LinkedIn**:
-- 📧 **Email**: 
+- 🔗 **LinkedIn**:www.linkedin.com/in/shreyas-kolte-350477273
+- 📧 **Email**: shreyaskolte007@gmail.com
